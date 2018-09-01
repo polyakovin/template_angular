@@ -17,7 +17,7 @@ The list of technologies:
 ## Installation
 
 ```sh
-git clone https://github.com/polyakovin/template_angular.git && \
+git clone https://igor_polyakov@bitbucket.org/igor_polyakov/template_angular.git && \
 cd template_angular && \
 sh switch_repo.sh <your_repo_name>
 ```
